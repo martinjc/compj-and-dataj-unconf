@@ -2,6 +2,8 @@
 
 ## Participants
 
+Participants in the Unconference - please feel free to edit/submit a PR with a better bio!
+
 * Martin - Lecturer, Cardiff University - interested in data visualisation
 * Glyn - Lecturer, reporter background, interested in data and stories
 * Caroline - come to see what was going on at datajconf
@@ -25,3 +27,10 @@ Tools for transparent data journalism
 Pedagogy of teaching data journalism
 
 Is data interesting? Is there a story?
+
+
+## Multi-lingual Data journalism
+
+How do you 'do' data journalism in an area where you need to cover multiple languages.
+
+E.G -
