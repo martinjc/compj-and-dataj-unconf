@@ -149,8 +149,14 @@ Are they answering the wrong question? "Who is going to win?" rather than "Who s
 
 ### Descending into the "What is Proper Journalism?" question/black-hole - brb...
 
-Activists vs. Journalists - where's the line and what's the difference. Journalism loses some of it's power when it moves towards activism.
+Activists vs. Journalists - where's the line and what's the difference. Journalism loses some of it's power when it moves towards activism. Activists always have a position. Journalists should be neutral? Are they actually neutral?
 
 Journalists won't (shouldn't) ignore the data just because it doesn't support their opinions/outlook. Activists more likely to ignore that which doesn't fit their bias.
 
 Climate Scientists - similar problem
+
+(oh we've got to BREXIT) - too much uncertainty to even start to figure it out.
+
+Is the goal 'foster critical thinking'?
+
+"Lazy Journalism" - systemic problems within Journalism. Intellectual laziness.
