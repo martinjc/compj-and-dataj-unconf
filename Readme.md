@@ -109,5 +109,8 @@ Trust is a big challenge in closed societies - there is no norm of belonging to 
 
 There is an assumption 'if you have data, democracy will happen' but of course that isn't the case
 
+[DataKind](http://www.datakind.org/) offer similar help with data and problems that need to be solved for NGOs
+
+Data for Democracy slack group
 
 ##
