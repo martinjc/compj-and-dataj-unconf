@@ -121,7 +121,14 @@ Balkans/Eastern Europe - subject to a lot of European FOI/Data laws but are stil
 
 'A little bit of data journalism can be a dangerous thing' - poor use of the little open data that does exist can result in a closing down of the data - how do you communicate uncertainty within data, and would more nuance help?
 
-You won't solve it with a "we'll build an app for that"
+We need a better way of communicating uncertainty
+
+[Surgeon Scorecard](https://projects.propublica.org/surgeons/) by ProPublica is a good example of this
+
+You won't solve lack of data with a "we'll build an app for that"
+
+Perhaps start with more innocuous topics (health, education) rather than corruption (which will scare officials off). There's always *some* data - so whatever story you do there will be the first data story.
+
 
 
 
