@@ -61,8 +61,6 @@ Tools:
 
 
 
-
-
 ## Teaching Data Journalism
 
 Teaching scientists: "I pushed the button and it didn't work. I'll push a different button"
@@ -71,3 +69,9 @@ Teaching non-scientists: "I pushed the button and it didn't work. It's broken"
 Problem solving - how to make students identify problem solving as part of journalism.
 
 Focus on the story and the message - really difficult to get people to focus on this over the tools.
+Hypothesis writing as a key part of the data-journalism process - including peer-review of the hypothesis
+"What are you counting?", "What are you measuring?" - it's basically a research methods class
+
+No point learning how to use the tools if you can't figure out what the question is...
+
+Computational Thinking as a problem solving process for teaching data-journalism
