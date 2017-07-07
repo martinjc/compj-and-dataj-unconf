@@ -33,4 +33,6 @@ Is data interesting? Is there a story?
 
 How do you 'do' data journalism in an area where you need to cover multiple languages.
 
-E.G -
+Linguistic isolation means that examples of good journalism are few/non-existent. Technical problems aren't the worst problem
+
+Eva has an 800 page training manual (based on Hunter's Inquiry method) - helps to redefine journalism for them.
