@@ -181,4 +181,8 @@ Tools for Exploratory Data Analysis, archive retrieval (archives for newsrooms a
 ## What would you change to improve data journalism?
 
 * EDUCATION! we need more education
+* It's not a rigid structure - there are changes to make in newsrooms, but 'data journalism' is fluid and changes as it needs to anyway
+* Find some 'non-google DNI' support!
+* Be able to fund, sustain and grow the intermediaries - ODI, Bureau Local etc.
+* A european 538
 * 
