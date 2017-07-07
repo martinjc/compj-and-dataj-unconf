@@ -132,6 +132,10 @@ Perhaps start with more innocuous topics (health, education) rather than corrupt
 
 
 
+## Transparent data journalism
 
+People doing their own analysis and writing about their process and methodology 👍
 
-##
+Journalists don't explain enough what things mean
+
+"Data Journalism should sound serious and authoritative" - but this is unnecessary!
