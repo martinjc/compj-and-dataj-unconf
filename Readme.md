@@ -4,15 +4,15 @@
 
 Participants in the Unconference - please feel free to edit/submit a PR with a better bio!
 
-* Martin - Lecturer, Cardiff University - interested in data visualisation
+* Martin - Lecturer, interested in data visualisation
 * Glyn - Lecturer, reporter background, interested in data and stories
 * Caroline - come to see what was going on at datajconf
 * Eva - Works setting up sustainable data journalism in developing countries
-* Marianne - Non-profit HEI-DA - data journalism training (multi-lingual data journalism)
-* Barry - Quantitative trainer - career break, interested in machine learning
-* Adrian - Data analyst - working with Open Data
-* Tomas - Computer Scientist - interested in tools for transparent data journalism
-* David - Data journalist - physics background, wall street trader
+* Marianne - Non-profit HEI-DA, data journalism training (multi-lingual data journalism)
+* Barry - Quantitative trainer, career break, interested in machine learning
+* Adrian - Data analyst, working with Open Data
+* Tomas - Computer Scientist, interested in tools for transparent data journalism
+* David - Data journalist, physics background, wall street trader
 
 
 ## Topics
@@ -58,3 +58,16 @@ Tools:
 * Different calendars can cause issues - what year is it!
     * Also data formats between US and elsewhere
     * ISO date format - YYYY-MM-DD !!! 👍
+
+
+
+
+
+## Teaching Data Journalism
+
+Teaching scientists: "I pushed the button and it didn't work. I'll push a different button"
+Teaching non-scientists: "I pushed the button and it didn't work. It's broken"
+
+Problem solving - how to make students identify problem solving as part of journalism.
+
+Focus on the story and the message - really difficult to get people to focus on this over the tools.
