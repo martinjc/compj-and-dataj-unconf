@@ -147,4 +147,10 @@ Editorial decision to report on polling predictions leads to losing the uncertai
 
 Are they answering the wrong question? "Who is going to win?" rather than "Who should you vote for?"
 
-* Descending into the "What is Proper Journalism?" question/black-hole - brb...
+### Descending into the "What is Proper Journalism?" question/black-hole - brb...
+
+Activists vs. Journalists - where's the line and what's the difference. Journalism loses some of it's power when it moves towards activism.
+
+Journalists won't (shouldn't) ignore the data just because it doesn't support their opinions/outlook. Activists more likely to ignore that which doesn't fit their bias.
+
+Climate Scientists - similar problem
