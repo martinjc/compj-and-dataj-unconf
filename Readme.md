@@ -17,27 +17,35 @@ Participants in the Unconference - please feel free to edit/submit a PR with a b
 
 ## Topics
 
-Multi-lingual Data journalism
-
-Open-data in closed societies
-Proxy measures when data is not available
-
-Tools for transparent data journalism
-
-Pedagogy of teaching data journalism
-
-Is data interesting? Is there a story?
+* Multi-lingual Data journalism
+* Open-data in closed societies
+* Proxy measures when data is not available
+* Tools for transparent data journalism
+* Pedagogy of teaching data journalism
+* Is data interesting? Is there a story?
 
 
 ## Multi-lingual Data journalism
 
 How do you 'do' data journalism in an area where you need to cover multiple languages.
 
-Linguistic isolation means that examples of good journalism are few/non-existent. Technical problems aren't the worst problem
+Linguistic isolation means that examples of good journalism are few/non-existent. Technical problems aren't the worst problem.
 
 Eva has an 800 page training manual (based on Hunter's Inquiry method) - helps to redefine journalism for them.
 Some languages of this training manual are available online.
 
 Education - there is a gap that needs to be filled.
 
+Survey data can be collected in local language - published in english - is there translation bias?
+
 Data Journalism handbook - useful primer, but is more a collection of essays than a really useful training manual.
+
+David - Balkans has a similar problem - lots of small countries with inter-connected problems.
+
+Sharing of data and creation of networks.
+
+Tools:
+
+* Excel deals with UTF-8 poorly
+* Open-Refine has very poor language support
+* Google Translate 👎 (only good for popular languages)
