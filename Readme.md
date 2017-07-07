@@ -80,3 +80,12 @@ Examples of gender-bias in data journalism examples/training - IRE manual is all
 
 
 ## Open Data in closed societies
+
+Data is unavailable, meetings are changed at random
+Very far away from an FOI law
+
+Just presenting the data you do get is very confusing - need to add extra context
+
+Small Media - platform for opening data from closed society
+Contacting journalists inside the country and asking them to write stories
+Will be open to contributions - leads to verification issues
