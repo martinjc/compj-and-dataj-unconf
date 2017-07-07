@@ -163,7 +163,8 @@ Is the goal 'foster critical thinking'?
 "Lazy Journalism" - systemic problems within Journalism. Intellectual laziness.
 
 
-### Ascending from the black-hole - Improving News Quality
+### Ascending from the black-hole
+## Improving News Quality
 
 [The Bureau Local](https://www.thebureauinvestigates.com/projects/the-bureau-local) have a real chance to help improve things
 
