@@ -160,3 +160,13 @@ Climate Scientists - similar problem
 Is the goal 'foster critical thinking'?
 
 "Lazy Journalism" - systemic problems within Journalism. Intellectual laziness.
+
+### Ascending from the black-hole
+
+[The Bureau Local](https://www.thebureauinvestigates.com/projects/the-bureau-local) have a real chance to help improve things
+
+Channel 4 Fact Check, Full Fact, working for a long time to widen fact checking
+
+There are changes ahead (BBC local reporters)
+
+How to get the 'mainstream industry' to use these tools as well?
