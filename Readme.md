@@ -113,4 +113,18 @@ There is an assumption 'if you have data, democracy will happen' but of course t
 
 Data for Democracy slack group
 
+Demand for "Data that is perfectly true"
+
+Balkans/Eastern Europe - subject to a lot of European FOI/Data laws but are still quite closed - hide data that can reveal issues (corruption etc).
+
+'I can make you look good/fix problems' can be a way of gaining access to data
+
+'A little bit of data journalism can be a dangerous thing' - poor use of the little open data that does exist can result in a closing down of the data - how do you communicate uncertainty within data, and would more nuance help?
+
+You won't solve it with a "we'll build an app for that"
+
+
+
+
+
 ##
