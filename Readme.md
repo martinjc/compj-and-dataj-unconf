@@ -103,6 +103,10 @@ Need communities for people dealing with open-data in these areas - using a blog
 
 [Kaggle](https://www.kaggle.com/) - could be used to help get people to work on data sets and solve problems.
 
+"Data for Change" - event to bring together tech and data journalists etc.
+
+Trust is a big challenge in closed societies - there is no norm of belonging to and participating in online communities.
+
 There is an assumption 'if you have data, democracy will happen' but of course that isn't the case
 
 
