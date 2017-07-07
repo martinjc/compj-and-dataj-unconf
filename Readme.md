@@ -185,4 +185,9 @@ Tools for Exploratory Data Analysis, archive retrieval (archives for newsrooms a
 * Find some 'non-google DNI' support!
 * Be able to fund, sustain and grow the intermediaries - ODI, Bureau Local etc.
 * A european 538
-* 
+* Access and flow of data, tools for finding data, particularly in closed-societies
+* Ethics
+* Soul searching from data journalists (post trump/post brexit) - "Why are we doing this?"
+
+
+#### "The future is already here — it's just not very evenly distributed" - William F. Gibson
