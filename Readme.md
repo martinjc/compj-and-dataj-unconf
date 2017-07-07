@@ -163,7 +163,7 @@ Is the goal 'foster critical thinking'?
 "Lazy Journalism" - systemic problems within Journalism. Intellectual laziness.
 
 
-### Ascending from the black-hole
+### Ascending from the black-hole - Improving News Quality
 
 [The Bureau Local](https://www.thebureauinvestigates.com/projects/the-bureau-local) have a real chance to help improve things
 
@@ -171,10 +171,8 @@ Channel 4 Fact Check, Full Fact, working for a long time to widen fact checking
 
 There are changes ahead (BBC local reporters)
 
-How to get the 'mainstream industry' to use these tools as well?
-
-Tools for journalists to make life easier (automatic information retrieval etc)
+Tools for journalists to make life easier (automatic information retrieval etc) - How to get the 'mainstream industry' to use these tools as well?
 
 "An easy copy and paste" - but attribution is important!
 
-Tools for Exploratory Data Analysis, archive retrieval (archives for newsrooms are very large and could be useful but aren't used).
+Tools for Exploratory Data Analysis, archive retrieval (archives for newsrooms are very large and could be useful but aren't used). CMS Tools identifying entities and retrieving information.
