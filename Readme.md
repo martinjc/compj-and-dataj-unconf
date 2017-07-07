@@ -147,6 +147,7 @@ Editorial decision to report on polling predictions leads to losing the uncertai
 
 Are they answering the wrong question? "Who is going to win?" rather than "Who should you vote for?"
 
+
 ### Descending into the "What is Proper Journalism?" question/black-hole - brb...
 
 Activists vs. Journalists - where's the line and what's the difference. Journalism loses some of it's power when it moves towards activism. Activists always have a position. Journalists should be neutral? Are they actually neutral?
@@ -161,6 +162,7 @@ Is the goal 'foster critical thinking'?
 
 "Lazy Journalism" - systemic problems within Journalism. Intellectual laziness.
 
+
 ### Ascending from the black-hole
 
 [The Bureau Local](https://www.thebureauinvestigates.com/projects/the-bureau-local) have a real chance to help improve things
@@ -170,3 +172,9 @@ Channel 4 Fact Check, Full Fact, working for a long time to widen fact checking
 There are changes ahead (BBC local reporters)
 
 How to get the 'mainstream industry' to use these tools as well?
+
+Tools for journalists to make life easier (automatic information retrieval etc)
+
+"An easy copy and paste" - but attribution is important!
+
+Tools for Exploratory Data Analysis, archive retrieval (archives for newsrooms are very large and could be useful but aren't used).
