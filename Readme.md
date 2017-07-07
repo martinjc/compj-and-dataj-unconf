@@ -75,3 +75,8 @@ Hypothesis writing as a key part of the data-journalism process - including peer
 No point learning how to use the tools if you can't figure out what the question is...
 
 Computational Thinking as a problem solving process for teaching data-journalism
+
+Examples of gender-bias in data journalism examples/training - IRE manual is all based around baseball
+
+
+## Open Data in closed societies
