@@ -177,3 +177,8 @@ Tools for journalists to make life easier (automatic information retrieval etc) 
 "An easy copy and paste" - but attribution is important!
 
 Tools for Exploratory Data Analysis, archive retrieval (archives for newsrooms are very large and could be useful but aren't used). CMS Tools identifying entities and retrieving information.
+
+## What would you change to improve data journalism?
+
+* EDUCATION! we need more education
+* 
