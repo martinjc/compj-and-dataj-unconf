@@ -13,6 +13,8 @@ Participants in the Unconference - please feel free to edit/submit a PR with a b
 * Adrian - Data analyst, working with Open Data
 * Tomas - Computer Scientist, interested in tools for transparent data journalism
 * David - Data journalist, physics background, wall street trader
+* Jane - Small Media
+* Yan -
 
 
 ## Topics
@@ -89,3 +91,7 @@ Just presenting the data you do get is very confusing - need to add extra contex
 Small Media - platform for opening data from closed society
 Contacting journalists inside the country and asking them to write stories
 Will be open to contributions - leads to verification issues
+Collaborating with others to learn about ways of accessing data and relaxing and sharing data
+Doing a lot of manual cleaning etc.
+
+[CKAN](https://ckan.org/) - open source software for making open-data portals
