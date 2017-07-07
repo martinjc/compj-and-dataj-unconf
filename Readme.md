@@ -140,3 +140,7 @@ Journalists don't explain enough what things mean
 "Data Journalism should sound serious and authoritative" - but this is unnecessary!
 
 Does the form itself force a lack of transparency due to deadlines and formats?
+
+Editorial decision to report on polling predictions leads to losing the uncertainty and probability issue around polling data. Are there better ways to communicate these sorts of things?
+
+"Attention Economy" - things need to be short and snappy and un-complicated. Does this work against a more nuanced telling of data stories?
