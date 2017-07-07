@@ -144,3 +144,7 @@ Does the form itself force a lack of transparency due to deadlines and formats?
 Editorial decision to report on polling predictions leads to losing the uncertainty and probability issue around polling data. Are there better ways to communicate these sorts of things?
 
 "Attention Economy" - things need to be short and snappy and un-complicated. Does this work against a more nuanced telling of data stories?
+
+Are they answering the wrong question? "Who is going to win?" rather than "Who should you vote for?"
+
+* Descending into the "What is Proper Journalism?" question/black-hole - brb...
