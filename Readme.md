@@ -49,3 +49,9 @@ Tools:
 * Excel deals with UTF-8 poorly
 * Open-Refine has very poor language support
 * Google Translate 👎 (only good for popular languages)
+* Tabula is no good in Burmese
+    * They have activated right-to-left support
+* OCR is no good for Burmese
+    * Digits and Numeric data is much easier and OCR works better
+* [Tesseract OCR](https://github.com/tesseract-ocr/) can be useful (and support many language)
+* TensorFlow as an OCR tool?
