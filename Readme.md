@@ -81,6 +81,7 @@ Computational Thinking as a problem solving process for teaching data-journalism
 Examples of gender-bias in data journalism examples/training - IRE manual is all based around baseball
 
 
+
 ## Open Data in closed societies
 
 Data is unavailable, meetings are changed at random
@@ -95,3 +96,14 @@ Collaborating with others to learn about ways of accessing data and relaxing and
 Doing a lot of manual cleaning etc.
 
 [CKAN](https://ckan.org/) - open source software for making open-data portals
+
+One of the problems is visibility - letting people know that tools exist and are around
+
+Need communities for people dealing with open-data in these areas - using a blog to start and build the community.
+
+[Kaggle](https://www.kaggle.com/) - could be used to help get people to work on data sets and solve problems.
+
+There is an assumption 'if you have data, democracy will happen' but of course that isn't the case
+
+
+##
