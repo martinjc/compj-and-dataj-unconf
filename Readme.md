@@ -55,3 +55,6 @@ Tools:
     * Digits and Numeric data is much easier and OCR works better
 * [Tesseract OCR](https://github.com/tesseract-ocr/) can be useful (and support many language)
 * TensorFlow as an OCR tool?
+* Different calendars can cause issues - what year is it!
+    * Also data formats between US and elsewhere
+    * ISO date format - YYYY-MM-DD !!! 👍
